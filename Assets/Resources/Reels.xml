@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlotMachine>
+    <ReelSet name="SampleVirtualReelSet" winChance="88">
+        <Reel id="1">
+            <Symbol weight="20">Cherry</Symbol>
+            <Symbol weight="10">Seven</Symbol>
+            <Symbol weight="5">Bar</Symbol>
+            <Symbol weight="15">Bell</Symbol>
+            <Symbol weight="20">Lemon</Symbol>
+            <Symbol weight="10">Grape</Symbol>
+            <Symbol weight="10">Orange</Symbol>
+            <Symbol weight="5">Plum</Symbol>
+            <Symbol weight="3">Diamond</Symbol>
+            <Symbol weight="2">Star</Symbol>
+        </Reel>
+        <Reel id="2">
+            <Symbol weight="20">Lemon</Symbol>
+            <Symbol weight="15">Cherry</Symbol>
+            <Symbol weight="5">Bar</Symbol>
+            <Symbol weight="3">Diamond</Symbol>
+            <Symbol weight="10">Seven</Symbol>
+            <Symbol weight="15">Plum</Symbol>
+            <Symbol weight="10">Orange</Symbol>
+            <Symbol weight="10">Bell</Symbol>
+            <Symbol weight="5">Grape</Symbol>
+            <Symbol weight="7">Star</Symbol>
+        </Reel>
+        <Reel id="3">
+            <Symbol weight="10">Bar</Symbol>
+            <Symbol weight="10">Bell</Symbol>
+            <Symbol weight="3">Diamond</Symbol>
+            <Symbol weight="15">Cherry</Symbol>
+            <Symbol weight="20">Lemon</Symbol>
+            <Symbol weight="5">Star</Symbol>
+            <Symbol weight="10">Seven</Symbol>
+            <Symbol weight="15">Plum</Symbol>
+            <Symbol weight="10">Grape</Symbol>
+            <Symbol weight="2">Orange</Symbol>
+        </Reel>
+        <Reel id="4">
+            <Symbol weight="25">Star</Symbol>
+            <Symbol weight="10">Cherry</Symbol>
+            <Symbol weight="15">Lemon</Symbol>
+            <Symbol weight="5">Bar</Symbol>
+            <Symbol weight="10">Seven</Symbol>
+            <Symbol weight="20">Bell</Symbol>
+            <Symbol weight="10">Orange</Symbol>
+            <Symbol weight="5">Plum</Symbol>
+            <Symbol weight="5">Grape</Symbol>
+            <Symbol weight="5">Diamond</Symbol>
+        </Reel>
+    </ReelSet>
+</SlotMachine>
